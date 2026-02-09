@@ -1,0 +1,32 @@
+# Build outputs
+OutputWin/
+Object/
+*.dll
+*.lib
+*.exp
+*.pdb
+*.iobj
+*.ipdb
+*.ilk
+*.res
+*.pch
+*.tlog/
+*.lastbuildstate
+*.log
+*.obj
+
+# VS user files
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.vs/
+
+# Template SDK (reference only, not part of this project)
+FilterPlugIn20210827/
+
+# Dev files
+check_plugin.ps1
+PLAN.md
