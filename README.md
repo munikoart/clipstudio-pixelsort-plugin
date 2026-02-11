@@ -73,6 +73,17 @@ A filter plugin for Clip Studio Paint that applies pixel sorting effects to your
 
 This plugin is built using the Triglav Plugin SDK from CELSYS. The SDK headers are included in `PixelSort/TriglavPlugInSDK/`.
 
+---
+
+Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the
+warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be
+liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from,
+out of, or in connection with the software or the use or other dealings in the software.
+
+Use at your own risk. This plugin is not affiliated with or endorsed by CELSYS, Inc.
+
 ## License
 
 MIT
